@@ -4,68 +4,151 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>RJ Overseas Limited</title>
+<title>RJ Overseas Limited | Connecting Opportunities, Building Futures</title>
+
 <meta name="description" content="RJ Overseas Limited - Overseas Recruitment & Manpower Services">
+<meta name="keywords" content="RJ Overseas, Overseas Jobs, Manpower, Recruitment, Bangladesh">
+<meta name="author" content="RJ Overseas Limited">
 
 <!-- Google Tag Manager -->
+<!-- Replace GTM-XXXXXXX with your GTM Container ID -->
 <script>
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;
+new Date().getTime(),event:'gtm.js'});
+var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+j.async=true;
+j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
 f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-XXXXXXX');
 </script>
-<!-- End Google Tag Manager -->
 
-<style>
-body{
-margin:0;
-font-family:Arial,sans-serif;
-background:#f5f7fa;
-display:flex;
-justify-content:center;
-align-items:center;
-height:100vh;
-}
-.card{
-background:#fff;
-padding:40px;
-border-radius:12px;
-box-shadow:0 10px 25px rgba(0,0,0,.15);
-text-align:center;
-max-width:500px;
-}
-h1{color:#0d6efd;}
-p{color:#555;}
-.btn{
-display:inline-block;
-margin-top:20px;
-padding:12px 24px;
-background:#0d6efd;
-color:#fff;
-text-decoration:none;
-border-radius:6px;
-}
-</style>
-
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 
-<div class="card">
+<header>
+
+<div class="container">
+
+<img src="logo.png" class="logo" alt="RJ Overseas Limited Logo">
+
+<nav>
+<a href="#">Home</a>
+<a href="#about">About</a>
+<a href="#services">Services</a>
+<a href="#contact">Contact</a>
+</nav>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="overlay">
+
 <h1>RJ Overseas Limited</h1>
 
-<p>Official Landing Page</p>
+<p>
+Connecting Opportunities, Building Futures
+</p>
 
-<p>Overseas Recruitment & Manpower Services</p>
+<a href="https://wa.me/8801910496573" class="btn">
+WhatsApp Now
+</a>
 
-<a class="btn" href="tel:+8801910496573">Call Now</a>
+<a href="tel:+8801910496573" class="btn2">
+Call Now
+</a>
+
 </div>
+
+</section>
+
+<section id="about">
+
+<div class="container">
+
+<h2>About Us</h2>
+
+<p>
+
+RJ Overseas Limited is committed to providing reliable overseas recruitment and manpower solutions with professionalism, transparency and trust.
+
+</p>
+
+</div>
+
+</section>
+
+<section id="services">
+
+<div class="container">
+
+<h2>Our Services</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>Overseas Recruitment</h3>
+<p>Legal recruitment services for international employment.</p>
+</div>
+
+<div class="card">
+<h3>Visa Processing</h3>
+<p>Professional visa documentation support.</p>
+</div>
+
+<div class="card">
+<h3>Manpower Supply</h3>
+<p>Skilled & unskilled workforce supply.</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contact">
+
+<div class="container">
+
+<h2>Contact Us</h2>
+
+<p>Email: rjoverseaslimited2@gmail.com</p>
+
+<p>Phone: 01910496573</p>
+
+<p>
+DIT Avenue, Fakirapul, Dhaka-1000
+</p>
+
+<a class="btn"
+href="https://maps.apple.com/p/k~iyQDzb8Wme7u">
+Open Map
+</a>
+
+</div>
+
+</section>
+
+<footer>
+
+© 2026 RJ Overseas Limited.
+All Rights Reserved.
+
+</footer>
+
+<script src="script.js"></script>
 
 </body>
 </html>
