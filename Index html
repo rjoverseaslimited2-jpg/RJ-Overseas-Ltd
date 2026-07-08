@@ -138,13 +138,163 @@ Open Map
 </a>
 
 </div>
+<!-- Lead Form -->
+
+<section id="lead">
+
+<div class="container">
+
+<h2>Quick Inquiry</h2>
+
+<form id="contactForm">
+
+<input type="text" placeholder="Full Name" required>
+
+<input type="email" placeholder="Email Address" required>
+
+<input type="tel" placeholder="Mobile Number" required>
+
+<select required>
+<option value="">Select Service</option>
+<option>Overseas Recruitment</option>
+<option>Visa Processing</option>
+<option>Manpower Supply</option>
+</select>
+
+<textarea placeholder="Write Your Message"></textarea>
+
+<button type="submit" class="btn">
+Submit
+</button>
+
+</form>
+
+</div>
 
 </section>
 
+<!-- FAQ -->
+
+<section>
+
+<div class="container">
+
+<h2>Frequently Asked Questions</h2>
+
+<div class="card">
+<h3>Which countries do you support?</h3>
+<p>We assist with overseas recruitment according to applicable laws and employer requirements.</p>
+</div>
+
+<div class="card">
+<h3>Do you provide visa assistance?</h3>
+<p>Yes. We help prepare and process the required visa documentation.</p>
+</div>
+
+<div class="card">
+<h3>How can I contact RJ Overseas Limited?</h3>
+<p>Email: rjoverseaslimited2@gmail.com<br>
+Phone: 01910496573</p>
+</div>
+
+</div>
+
+</section>
+
+<!-- Testimonials -->
+
+<section>
+
+<div class="container">
+
+<h2>Testimonials</h2>
+
+<div class="cards">
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+Professional service and helpful guidance throughout the recruitment process.
+</p>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+Very responsive team with excellent customer support.
+</p>
+</div>
+
+<div class="card">
+⭐⭐⭐⭐⭐
+<p>
+Highly recommended for overseas recruitment assistance.
+</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- Google Maps -->
+
+<section>
+
+<div class="container">
+
+<h2>Our Location</h2>
+
+<p>
+DIT Avenue, Fakirapul, Dhaka-1000
+</p>
+
+<p>
+<a class="btn" href="https://maps.apple.com/p/k~iyQDzb8Wme7u" target="_blank">
+Open Google/Apple Maps
+</a>
+</p>
+
+</div>
+
+</section>
+
+<!-- Facebook -->
+
+<section>
+
+<div class="container">
+
+<h2>Follow Us</h2>
+
+<a class="btn"
+href="https://www.facebook.com/share/1cqpu8F1Hi/?mibextid=wwXIfr"
+target="_blank">
+
+Visit Our Facebook Page
+
+</a>
+
+</div>
+
+</section>
+
+
 <footer>
 
-© 2026 RJ Overseas Limited.
+<footer>
+
+<p>
+© <span id="year"></span> RJ Overseas Limited.
 All Rights Reserved.
+</p>
+
+</footer>
+
+<a href="https://wa.me/8801910496573" class="whatsapp">
+💬
+</a>
 
 </footer>
 
