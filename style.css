@@ -100,51 +100,54 @@ color:#d4af37;
     background:#fff;
 }
 
+.hero{
+position:relative;
+text-align:center;
+}
+
 .hero img{
-    width:100%;
-    height:auto;
-    display:block;
+width:100%;
+display:block;
 }
 
-.overlay h1{
-font-size:58px;
-color:#d4af37;
+.hero-content{
+position:absolute;
+top:50%;
+left:50%;
+transform:translate(-50%,-50%);
+color:white;
 }
 
-.overlay p{
-margin:20px 0;
-font-size:22px;
+form{
+max-width:700px;
+margin:auto;
+display:flex;
+flex-direction:column;
+gap:15px;
+padding:20px;
 }
 
-.btn,
-.btn2{
-display:inline-block;
-padding:14px 28px;
-margin:10px;
-border-radius:50px;
-text-decoration:none;
-font-weight:bold;
-transition:.3s;
+input,
+textarea,
+button{
+padding:14px;
+font-size:16px;
 }
 
-.btn{
-background:#25D366;
-color:#fff;
+button{
+background:#0d6efd;
+color:white;
+border:none;
+cursor:pointer;
 }
 
-.btn:hover{
-transform:translateY(-4px);
+details{
+max-width:800px;
+margin:15px auto;
+background:#f5f5f5;
+padding:15px;
+border-radius:8px;
 }
-
-.btn2{
-background:#d4af37;
-color:#000;
-}
-
-.btn2:hover{
-transform:translateY(-4px);
-}
-
 /* Sections */
 
 section{
