@@ -42,6 +42,8 @@ padding:15px 0;
 
 .logo{
 height:70px;
+}.logo{
+    display:none;
 }
 
 nav a{
