@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>RJ Overseas Limited</title>
+<meta name="description" content="RJ Overseas Limited - Overseas Recruitment & Manpower Services">
+
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;
+f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-XXXXXXX');
+</script>
+<!-- End Google Tag Manager -->
+
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f5f7fa;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+.card{
+background:#fff;
+padding:40px;
+border-radius:12px;
+box-shadow:0 10px 25px rgba(0,0,0,.15);
+text-align:center;
+max-width:500px;
+}
+h1{color:#0d6efd;}
+p{color:#555;}
+.btn{
+display:inline-block;
+margin-top:20px;
+padding:12px 24px;
+background:#0d6efd;
+color:#fff;
+text-decoration:none;
+border-radius:6px;
+}
+</style>
+
+</head>
+<body>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-XXXXXXX"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+
+<div class="card">
+<h1>RJ Overseas Limited</h1>
+
+<p>Official Landing Page</p>
+
+<p>Overseas Recruitment & Manpower Services</p>
+
+<a class="btn" href="tel:+8801910496573">Call Now</a>
+</div>
+
+</body>
+</html>
